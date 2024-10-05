@@ -1,0 +1,38 @@
+  .Card > svg {
+  
+    width:  28px;
+    fill: #730071 ;
+}
+
+.Card{
+width: 800px;
+  border-radius: 10px;
+  border: 2px solid;
+  padding: 10px;
+  background-color: #a9a587;
+}
+
+p{
+font-weight: bold;
+
+}
+.botao .trabalho{
+
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.botao .casa{
+    background-color: pink;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
+.botao .ferias{
+
+    background-color: orange;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
